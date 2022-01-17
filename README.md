@@ -53,6 +53,8 @@ object **Rodrigo Barata** {
   <br>
  <img src="https://raw.githubusercontent.com/baratarodrigo/baratarodrigo/output/github-contribution-grid-snake.svg" />
 </p>
+</p>
+ <img src="https://activity-graph.herokuapp.com/graph?username=baratarodrigo&theme=react-dark" />
 
 <br>
 
